@@ -1,0 +1,13 @@
+name: age_from_name
+title: age_from_name
+username:
+account: cgrilson
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4519596
+bundleId: 4948903
+url: https://cgrilson.shinyapps.io/age_from_name/
+when: 1629572328.40499
+lastSyncTime: 1629572328.405
+asMultiple: FALSE
+asStatic: FALSE
