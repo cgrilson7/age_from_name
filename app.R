@@ -184,7 +184,7 @@ plot_estimated_distribution <- function(first_name, ...){
                     face = 'bold',
                     color = '#ffffff'
                 ),
-                strip.text = element_text(size = rel(1.2), face = 'bold', family = 'sans')
+                strip.text = element_text(size = rel(1.1), face = 'bold', family = 'sans')
             )
         
         return(p)
